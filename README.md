@@ -162,4 +162,4 @@ Configuration Tips:
 # Set default region for all commands
 cmd : aws configure set default.region us-west-2
 
-![cmd to set the default region cmd](img\step8-cmd-to-set-default-to-us-east-2.jpg)
+![cmd to set the default region cmd](img/step8-cmd-to-set-default-to-us-east-2.jpg)
